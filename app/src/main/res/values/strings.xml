@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="app_name">AboutMe</string>
+        <string name="name">ZAIN</string>
+        <string name="avatar">Avatar</string>
+        <string name="yellow_star">Yellow star</string>
+
+        <string name="bio">My name is Zain Farhan.\n
+            currently we are learning kotlin course\n
+
+            which will help students enhance their skills\n
+
+          \n  for application developmentjava and kotlin videos will get releasedon alternate weeks
+
+\nIn upcoming weeks there would be a number of new courses
+\nthat will available and will try to teach
+\nthe best application of these courses
+\nin real life , so that it can help u guys.
+
+\nso stay tuned and work hard as it takes real
+\neffort and time to learn a new skill that
+\nwill serve you good in your upcoming life.\n\n</string>
+    <string name="What_is_your_nick_name">What is your nick name</string>
+    <string name="done">Done</string>
+
+</resources>
